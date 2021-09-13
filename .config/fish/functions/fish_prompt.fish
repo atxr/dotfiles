@@ -1,0 +1,1 @@
+/home/alex/.local/share/omf/themes/dangerous/fish_prompt.fish
