@@ -100,3 +100,7 @@ source $OSH/oh-my-bash.sh
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
+
+source .bash_aliases
+export PATH=$PATH:/home/alex/scripts
+tb

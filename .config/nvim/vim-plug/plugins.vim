@@ -20,5 +20,13 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-commentary'
 Plug 'liuchengxu/vim-which-key'
 Plug 'jeffkreeftmeijer/vim-numbertoggle'
+Plug 'dense-analysis/ale'
+
+" A Vim Plugin for Lively Previewing LaTeX PDF Output
+Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+
+" Sagemath 
+Plug 'petRUShka/vim-sage'
+
 call plug#end()
 
